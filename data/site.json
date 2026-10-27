@@ -1,0 +1,256 @@
+{
+  "avaUrl": "https://www.avastream.site",
+  "brand": "AvaStudio",
+  "nav": [
+    {
+      "href": "/#maisons",
+      "id": "maisons",
+      "label": "Producteurs"
+    },
+    {
+      "href": "/catalogue",
+      "id": "catalogue",
+      "label": "Catalogue"
+    },
+    {
+      "href": "/#faq",
+      "id": "faq",
+      "label": "Questions"
+    },
+    {
+      "href": "/#abonnement",
+      "id": "abonnement",
+      "label": "Abonnement"
+    }
+  ],
+  "hero": {
+    "year": "©2026",
+    "kicker": "STUDIO",
+    "word": "AVASTREAM",
+    "image": "/uploads/images/1793104692475-3bf4dcdc.png",
+    "imageAlt": "Portrait sur fond rouge, débardeur blanc",
+    "watchLabel": "Regarder",
+    "catalogLabel": "Voir le catalogue"
+  },
+  "about": {
+    "points": [
+      "Avastream",
+      "Films et séries",
+      "Dès 5 $US",
+      "4 écrans"
+    ],
+    "text": "AVA est le streaming des arts visuels congolais, avec films, séries, podcasts et originaux sur avastream.site, à regarder sur la tablette, l'ordinateur ou le téléphone."
+  },
+  "top": {
+    "title": "Top 5 AVA"
+  },
+  "houses": {
+    "title": "Les maisons",
+    "text": "Les producteurs avec lesquels AVA collabore.",
+    "moreLabel": "Voir plus"
+  },
+  "covers": {
+    "title": "Couvertures"
+  },
+  "pricing": {
+    "title": "Un prix simple, affiché",
+    "text": "Trois durées, le même catalogue. Films, séries, podcasts et originaux, sans engagement.",
+    "features": [
+      "Films, séries, podcasts et originaux",
+      "Jusqu'à 4 écrans en même temps",
+      "Télévision, ordinateur, mobile et tablette",
+      "Sans engagement, annulable à tout moment"
+    ],
+    "note": "L'abonnement se prend sur avastream.site.",
+    "subscribeLabel": "S'abonner",
+    "includedLabel": "Inclus"
+  },
+  "plans": [
+    {
+      "length": "1 mois",
+      "price": "5 $US",
+      "detail": "Films, séries, podcasts et originaux"
+    },
+    {
+      "length": "2 mois",
+      "price": "10 $US",
+      "detail": "Films, séries, podcasts et originaux"
+    },
+    {
+      "length": "3 mois",
+      "price": "15 $US",
+      "detail": "Films, séries, podcasts et originaux"
+    }
+  ],
+  "faqIntro": {
+    "kicker": "Questions",
+    "title": "Questions fréquentes",
+    "helpTitle": "Tu ne trouves pas ta réponse ?",
+    "helpText": "Écris-nous. On lit chaque message, sans ticket perdu dans un fil.",
+    "helpLabel": "Nous écrire"
+  },
+  "faqs": [
+    {
+      "q": "Qu'est-ce qu'AVA ?",
+      "a": "AVA est le streaming des arts visuels congolais. Films, séries, podcasts et productions originales sont réunis sur avastream.site."
+    },
+    {
+      "q": "Combien coûte AVA ?",
+      "a": "L'abonnement affiché commence à 5 $US pour 1 mois. Les autres formules sont 10 $US pour 2 mois et 15 $US pour 3 mois."
+    },
+    {
+      "q": "Où puis-je regarder AVA ?",
+      "a": "Sur smart TV, Chromecast, Apple TV, ordinateur Windows, Mac ou Chrome OS, et sur Android, iPhone et iPad."
+    },
+    {
+      "q": "Comment annuler mon abonnement ?",
+      "a": "L'offre publique est sans engagement. L'abonnement s'annule depuis le compte sur avastream.site."
+    },
+    {
+      "q": "Que puis-je regarder sur AVA ?",
+      "a": "La vitrine reprend le catalogue public : Pulsions Incontrôlables, Horizon Rouge, Les Ombres de Paris, Neon Pulse et Silence Profond."
+    }
+  ],
+  "footer": {
+    "blurb": "Maisons, catalogues et plateforme. La lecture et l'abonnement se font sur avastream.site.",
+    "note": "AvaStudio · maisons, catalogues, plateforme."
+  },
+  "titles": [
+    {
+      "slug": "pulsions-incontrolables",
+      "title": "Pulsions Incontrôlables",
+      "tagline": "Une série de Bellevue Kandy.",
+      "description": "Drames, passions et secrets au cœur de la ville. Une production Bel'Art Pro présentée sur Bellevue TV.",
+      "image": "https://www.avastream.site/covers/pulsions-incontrolables.jpg",
+      "type": "Série",
+      "year": 2025,
+      "rating": "16+",
+      "duration": "52 min",
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "producerSlugs": [
+        "belart-pro",
+        "bellevue-tv"
+      ]
+    },
+    {
+      "slug": "horizon-rouge",
+      "title": "Horizon Rouge",
+      "tagline": "Un thriller spatial captivant.",
+      "description": "Un thriller spatial captivant, à l'affiche sur AVA.",
+      "image": "https://www.avastream.site/covers/pesha-jour-j9.png",
+      "type": "Film",
+      "year": 2024,
+      "rating": "12+",
+      "duration": "118 min",
+      "genres": [
+        "Drame",
+        "Suspense"
+      ],
+      "producerSlugs": [
+        "selection-ava"
+      ]
+    },
+    {
+      "slug": "les-ombres-de-paris",
+      "title": "Les Ombres de Paris",
+      "tagline": "Une série policière immersive.",
+      "description": "Une série policière immersive, proposée dans la sélection AVA.",
+      "image": "https://www.avastream.site/covers/pesha-jour-j12.png",
+      "type": "Série",
+      "year": 2023,
+      "rating": "16+",
+      "duration": "52 min",
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "producerSlugs": [
+        "selection-ava"
+      ]
+    },
+    {
+      "slug": "neon-pulse",
+      "title": "Neon Pulse",
+      "tagline": "Cyberpunk et rébellion numérique.",
+      "description": "Cyberpunk et rébellion numérique, dans le catalogue public d'AVA.",
+      "image": "https://www.avastream.site/covers/melanin-photoshoot.png",
+      "type": "Série",
+      "year": 2025,
+      "rating": "12+",
+      "duration": "45 min",
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "producerSlugs": [
+        "selection-ava"
+      ]
+    },
+    {
+      "slug": "silence-profond",
+      "title": "Silence Profond",
+      "tagline": "Drame sous-marin poignant.",
+      "description": "Drame sous-marin poignant, visible dans la sélection AVA.",
+      "image": "https://www.avastream.site/covers/portrait-trone.jpg",
+      "type": "Film",
+      "year": 2022,
+      "rating": "Tout public",
+      "duration": "96 min",
+      "genres": [
+        "Drame"
+      ],
+      "producerSlugs": [
+        "selection-ava"
+      ]
+    }
+  ],
+  "producers": [
+    {
+      "slug": "belart-pro",
+      "name": "Bel'Art Pro",
+      "role": "Maison de production",
+      "summary": "Bel'Art Pro produit Pulsions Incontrôlables, la série de Bellevue Kandy présentée sur Bellevue TV.",
+      "place": "Production"
+    },
+    {
+      "slug": "bellevue-tv",
+      "name": "Bellevue TV",
+      "role": "Chaîne",
+      "summary": "Bellevue TV diffuse Pulsions Incontrôlables : drames, passions et secrets au cœur de la ville.",
+      "place": "Diffusion"
+    },
+    {
+      "slug": "selection-ava",
+      "name": "Sélection AVA",
+      "role": "Catalogue de la plateforme",
+      "summary": "Les films et séries à l'affiche sur avastream.site, en plus des maisons déjà nommées sur la page publique.",
+      "place": "avastream.site"
+    }
+  ],
+  "magazines": [
+    {
+      "slug": "salford",
+      "title": "The Salford",
+      "cover": "/magazines/salford.jpg",
+      "pdf": "/magazines/salford.pdf",
+      "alt": "Couverture The Salford"
+    },
+    {
+      "slug": "checked",
+      "title": "Checked",
+      "cover": "/magazines/checked.jpg",
+      "pdf": "/magazines/checked.pdf",
+      "alt": "Couverture Checked"
+    },
+    {
+      "slug": "beauty",
+      "title": "Beauty Magazine",
+      "cover": "/magazines/beauty.jpg",
+      "pdf": "/magazines/beauty.pdf",
+      "alt": "Couverture Beauty Magazine"
+    }
+  ]
+}
