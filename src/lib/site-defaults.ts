@@ -13,8 +13,8 @@ export type TitleItem = {
   year: number;
   rating: string;
   duration: string;
-  genres: string[];
-  producerSlugs: string[];
+  genres: readonly string[];
+  producerSlugs: readonly string[];
 };
 
 export type ProducerItem = {
@@ -76,7 +76,7 @@ export type SiteContent = {
   magazines: MagazineItem[];
 };
 
-function copy<T>(value: T): T {
+function copy<T>(value: unknown): T {
   return JSON.parse(JSON.stringify(value)) as T;
 }
 
@@ -131,9 +131,9 @@ export function createDefaultSite(): SiteContent {
       blurb: "Maisons, catalogues et plateforme. La lecture et l'abonnement se font sur avastream.site.",
       note: "AvaStudio · maisons, catalogues, plateforme.",
     },
-    titles: copy(titles),
-    producers: copy(producers),
-    magazines: copy(magazines),
+    titles: copy<TitleItem[]>(titles),
+    producers: copy<ProducerItem[]>(producers),
+    magazines: copy<MagazineItem[]>(magazines),
   };
 }
 
